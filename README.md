@@ -1,6 +1,6 @@
 # Pocket_Dictionary
 
-<p> A Small Pocket Dictionary Website. It Fetches Data from Oxford API.</p>
+<p> A Small Pocket Dictionary Website. It Fetches Data from Oxford API, mongoDb cloud is used for storing data.</p>
 
 # Functionality
 
